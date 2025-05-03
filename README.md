@@ -2,7 +2,7 @@
 
 <span style="color: lightblue;">**`Estudante de Análise de Dados`**</span>
 
-Me chamo Pedro Henrique Sampaio de Oliveira, tenho 21 anos e sou de Fortaleza/CE. Sou graduando em Ciências Contábeis pela Universidade Federal do Ceará (UFC). Atualmente, estou cursando Análise de Dados na Alura após conseguir uma bolsa de estudos pela empresa na qual trabalho. Atuo bastante com Power BI e FP&A e sou apaixonado por <span style="color: lightgreen;">tecnologia, exploração e modelagem.</span> 
+Me chamo Pedro Henrique Sampaio de Oliveira, tenho 21 anos e sou de Fortaleza/CE. Sou graduando em Ciências Contábeis pela Universidade Federal do Ceará (UFC). Atualmente, estou cursando Análise de Dados na Alura após conseguir uma bolsa de estudos por ficar em 3ª lugar no hackataon da minha empresa. Trabalho bastante com Power BI e FP&A e sou apaixonado por <span style="color: lightgreen;">tecnologia, exploração e modelagem.</span> 
 
 ---
 
@@ -33,5 +33,13 @@ Me chamo Pedro Henrique Sampaio de Oliveira, tenho 21 anos e sou de Fortaleza/CE
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate"/>
 </a>
   
+
+### 📝 Projeto em Destaque: Análise com Google Colab
+
+Este é um dos notebooks que desenvolvi como parte dos meus estudos na Alura em Análise de Dados. Nele, aplico conceitos como manipulação de dados, visualização gráfica e análise exploratória utilizando bibliotecas como **Pandas** e **Matplotlib**, em ambiente Google Colab.
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gii-w4f3yuHHndVjdFC7H2YOqAWYJ30b)
+
+> 📌 **Importante:** Certifique-se de estar logado no Google para visualizar o conteúdo.
 
 
