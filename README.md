@@ -2,7 +2,7 @@
 
 <span style="color: lightblue;">**`Estudante de Análise de Dados`**</span>
 
-Me chamo Pedro Henrique Sampaio de Oliveira, tenho 21 anos e sou de Fortaleza/CE. Sou graduando em Ciências Contábeis pela Universidade Federal do Ceará (UFC). Atualmente, estou cursando Análise de Dados na Alura após conseguir uma bolsa de estudos por ficar em 3ª lugar no hackataon da minha empresa. Trabalho bastante com Power BI e FP&A e sou apaixonado por <span style="color: lightgreen;">tecnologia, exploração e modelagem.</span> 
+Me chamo Pedro Henrique Sampaio de Oliveira, tenho 21 anos e sou de Fortaleza/CE. Sou graduando em Ciências Contábeis pela Universidade Federal do Ceará (UFC). Atualmente, estou cursando Análise de Dados na Alura após conseguir uma bolsa de estudos pela empresa na qual trabalho. Atuo bastante com Power BI e FP&A e sou apaixonado por <span style="color: lightgreen;">tecnologia, exploração e modelagem.</span> 
 
 ---
 
